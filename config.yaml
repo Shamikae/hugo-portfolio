@@ -1,0 +1,11 @@
+baseURL: 'http://example.org/'
+languageCode: 'en-us'
+title: 'My New Hugo Site'
+theme: basic
+params: 
+  author: Shamika
+  description: My Portfolio Site
+  gh_url: "https://api.github.com/users" 
+  gh_user: "shamikae"
+permalinks: 
+  posts: "/posts/:year/:month/:slug/"
