@@ -1,6 +1,6 @@
 baseURL: 'http://example.org/'
 languageCode: 'en-us'
-title: 'Shamika's Hugo Portfolio'
+title: 'Shamika Hugo Portfolio'
 theme: basic
 params: 
   author: Shamika
